@@ -7,7 +7,7 @@ The library outputs logs in json. In addition, it adds more audit information in
 	"timestamp": "2019-04-16T13:28:12.211-04:00",
 	"level": "INFO",
 	"thread": "http-nio-8003-exec-2",
-	"loggerName": "com.iconective.demo.controller.DemoController",
+	"loggerName": "com.iconective.demo.DemoController",
 	"message": "Inside Demo 3..",
 	"requestURI": "/demo",
 	"port": "8003",
